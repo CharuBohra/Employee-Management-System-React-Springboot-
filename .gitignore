@@ -1,0 +1,21 @@
+# React
+employee-management-system-frontend/node_modules/
+employee-management-system-frontend/dist/
+employee-management-system-frontend/build/
+
+# Spring Boot
+employee-management-system-backend/target/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
